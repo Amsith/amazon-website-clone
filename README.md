@@ -38,8 +38,5 @@ This repository contains a fully functional clone of the Amazon website, develop
 <p align="center">
   <img width="75%" height="50%" src="screen shots/7.jpg">
 </p>
-<br>
-<p align="center">
-  <img width="75%" height="50%" src="screen shots/8.jpg">
-</p>
-<br>
+
+
